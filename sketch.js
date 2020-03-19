@@ -51,7 +51,7 @@ mainbody.addAnimation('floating', 'mainbody.png');
    rightarm= createSprite(mainbodyx-131,mainbodyy-69);
 rightarm.addAnimation('floating', 'rightarm.png'); 
   leftarm = createSprite(mainbodyx+58, mainbodyy-59);
-  leftarm.addAnimation('floating', 'leftarm.png','leftarm1.png');
+  leftarm.addAnimation('floating', 'leftarm.png');
   //542 209  
   rightleg = createSprite(mainbodyx-80, mainbodyy+158);
   rightleg.addAnimation('floating', 'rightleg.png');
