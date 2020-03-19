@@ -12,13 +12,13 @@ let label = "";
 //Moving sprites
 let text1= "";
 let v0x = 730;
-let v0y=140;
+let v0y=440;
 let v2x = 460;
 let start = false;
 let angle = 0;
 let angle2 = 0;
 var mainbodyx=942;
-var mainbodyy=209;
+var mainbodyy=609;
 var compare = false;
 var speed1 = 3;
 var ghost, circle1;
